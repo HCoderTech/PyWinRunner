@@ -1,0 +1,6 @@
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\Runner.Helpers\bin\Debug\Runner.Helpers.dll
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\Runner.Helpers\bin\Debug\Runner.Helpers.pdb
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\Runner.Helpers\obj\Debug\Runner.Helpers.csproj.AssemblyReference.cache
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\Runner.Helpers\obj\Debug\Runner.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\Runner.Helpers\obj\Debug\Runner.Helpers.dll
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\Runner.Helpers\obj\Debug\Runner.Helpers.pdb

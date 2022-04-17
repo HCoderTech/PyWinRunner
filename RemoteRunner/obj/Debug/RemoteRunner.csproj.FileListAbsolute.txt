@@ -1,0 +1,14 @@
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\bin\Debug\RemoteRunner.exe.config
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\bin\Debug\RemoteRunner.exe
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\bin\Debug\RemoteRunner.pdb
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\bin\Debug\Runner.Helpers.dll
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\bin\Debug\Runner.Helpers.pdb
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\obj\Debug\RemoteRunner.csproj.AssemblyReference.cache
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\obj\Debug\RemoteRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\obj\Debug\RemoteRunner.Properties.Resources.resources
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\obj\Debug\RemoteRunner.RemoteForm.resources
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\obj\Debug\RemoteRunner.csproj.GenerateResource.cache
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\obj\Debug\RemoteRunner.csproj.CoreCompileInputs.cache
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\obj\Debug\RemoteRunner.csproj.CopyComplete
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\obj\Debug\RemoteRunner.exe
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\RemoteRunner\obj\Debug\RemoteRunner.pdb

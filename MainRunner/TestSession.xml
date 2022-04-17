@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestRun>
+  <Steps>
+    <Step RunOn="Main" Filename="Sub.py" Arguments="HelloWorld"/>
+    <Step RunOn="Remote" Filename="Sub.py" Arguments="6 4"/>
+    <Step RunOn="Remote" Filename="Sub.py" Arguments="8 4"/>
+    <Step RunOn="Main" Filename="Sub.py" Arguments="1 4"/>
+  </Steps>
+</TestRun>

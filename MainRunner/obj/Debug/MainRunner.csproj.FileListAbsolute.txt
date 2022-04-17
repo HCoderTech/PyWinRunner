@@ -1,0 +1,15 @@
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\bin\Debug\MainRunner.exe.config
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\bin\Debug\MainRunner.exe
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\bin\Debug\MainRunner.pdb
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\bin\Debug\Runner.Helpers.dll
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\bin\Debug\Runner.Helpers.pdb
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\obj\Debug\MainRunner.csproj.AssemblyReference.cache
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\obj\Debug\MainRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\obj\Debug\MainRunner.MainForm.resources
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\obj\Debug\MainRunner.Properties.Resources.resources
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\obj\Debug\MainRunner.csproj.GenerateResource.cache
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\obj\Debug\MainRunner.csproj.CoreCompileInputs.cache
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\obj\Debug\MainRunner.csproj.CopyComplete
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\obj\Debug\MainRunner.exe
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\obj\Debug\MainRunner.pdb
+C:\Users\HEWITT\source\repos\PyWinAutoRunner\MainRunner\bin\Debug\TestSession.xml
